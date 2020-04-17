@@ -2314,7 +2314,7 @@ html.notouch .mod-btn.pdf:hover .icon:before {
 
 .page-top .fv__slide .item .img {
 	position: absolute;
-	height: 100%;
+	height: 100vh;
 	width: 100%;
 	top: 0;
 	left: 0
